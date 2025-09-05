@@ -104,7 +104,9 @@ Paisabazaar_Banking_Fraud_Analysis.py → Python script version of the analysis 
 
 dataset(2).csv (Dataset) → https://drive.google.com/file/d/1KNocQ0B26rPlclgDEvb4Fz_klwUqfmrG/view?usp=sharing
 
-README.md → Project documentation.🛠️ Tech Stack
+README.md → Project documentation.
+
+🛠️ Tech Stack
 
 Language: Python
 
@@ -115,4 +117,5 @@ Platform: Google Colab
 ✅ Conclusion
 
 The analysis highlights that credit score is not just income-driven, but heavily influenced by repayment discipline, loan behavior, and credit utilization.
+
 Paisabazaar can strengthen its fraud detection & credit assessment models by focusing on these behavioral patterns, improving both profitability and customer trust.
